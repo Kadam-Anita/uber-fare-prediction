@@ -11,12 +11,14 @@ Regression modeling (Linear Regression / OLS)
 Model evaluation (R² score, MAE, RMSE)
 Model saving using .pkl
 Prediction on new data
+
 🛠️ Technologies Used
 Python
 Pandas, NumPy
 Scikit-learn
 Statsmodels
 Matplotlib / Seaborn
+
 📊 Workflow
 Data collection
 Data cleaning
@@ -25,6 +27,7 @@ Feature engineering
 Model training
 Model evaluation
 Model saving & prediction
+
 🎯 Goal
 
 To build a reliable model that can estimate Uber fares based on trip details and demonstrate real-world machine learning pipeline implementation.
